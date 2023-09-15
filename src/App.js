@@ -1,10 +1,12 @@
-
-import './App.css';
+import "./App.css";
+import Navbar from "./Components/Body/Header/Navbar";
+import ImageUploader from "./Components/Pages/ImagesUploader/ImageUploader";
 
 function App() {
   return (
-    <div>
-
+    <div >
+      <Navbar />
+      <ImageUploader />
     </div>
   );
 }

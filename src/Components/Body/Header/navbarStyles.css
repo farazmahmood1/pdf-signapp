@@ -1,0 +1,29 @@
+.navbar-crumbs {
+  font-size: 14px;
+  color: #161616;
+  font-weight: 500;
+}
+.navbar-crumbs:hover {
+  color: red;
+}
+.auth-text{
+    font-size: 15px;
+    font-size: 700;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+  }
+.navbar-auth {
+  background-color: brown;
+  text-decoration: none;
+}
+.navbar-auth-in {
+    background-color: #f3f0ec;
+    text-decoration: none;
+  }
+.navbar-auth:hover {
+  background-color: black;
+}
+.navbar-auth-in:hover {
+    background-color: black;
+  }

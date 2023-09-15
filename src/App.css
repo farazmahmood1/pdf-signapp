@@ -1,0 +1,11 @@
+.homemade-font {
+    font-family: 'Homemade Apple', cursive;
+}
+
+.selected {
+    border: 2px solid #007bff;
+  }
+
+  .react-pdf__Page__textContent{
+    display: none;
+  }
